@@ -1,5 +1,5 @@
 # Schema-Exporter
-Schema-Exporter는 MariaDB기준의 Information Schema를 기준으로 테이블 정보를 추출 하여 테이블 명세서를 작성해주는 간단한 툴입니다. 
+Schema-Exporter는 MariaD의 Information Schema를 기준으로 테이블 정보를 추출 하여 테이블 명세서를 작성해주는 간단한 툴입니다. 
 
 ## Import Module
 + tkinter
