@@ -4,6 +4,7 @@ import mysql.connector
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, colors
 from openpyxl.styles.borders import Border, Side
+import mysql.connector.locales.eng.client_error
 # Window Configure
 wd = tkinter.Tk()
 wd.title("Schema-Exporter")
